@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "751272858210",
+    "firebase_url": "https://momentum-adfc0-default-rtdb.firebaseio.com",
+    "project_id": "momentum-adfc0",
+    "storage_bucket": "momentum-adfc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751272858210:android:d7550e839bef59cc59373b",
+        "android_client_info": {
+          "package_name": "com.example.momentum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7l6rQgaXHh7KQlwp8ArHhuAVKbvFWcBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
